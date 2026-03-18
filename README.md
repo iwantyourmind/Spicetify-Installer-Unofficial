@@ -1,6 +1,5 @@
 # Spicetify-Installer-Unofficial
 
----
 
 
 
@@ -10,3 +9,4 @@
 
 - [Installation](https://spicetify.app/docs/getting-started)
 - [Basic Usage](https://spicetify.app/docs/getting-started#basic-usage)
+---
