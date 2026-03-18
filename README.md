@@ -1,7 +1,7 @@
 # Spicetify-Installer-Unofficial
 
-## SPICETIFY IS NOT MADE BY ME PLEASE GO AN SUPPORT
-## THOSE DEVELOPER'S WHO DID [https://spicetify.app/](Spicetify)
+### SPICETIFY IS NOT MADE BY ME PLEASE GO AN SUPPORT
+### THOSE DEVELOPER'S WHO DID [https://spicetify.app/](Spicetify)
 
 
 
