@@ -5,7 +5,7 @@
 
 
 
-# If you want to go use their powershell script 
+### If you want to go use their powershell script 
 Links
 
 - [Installation](https://spicetify.app/docs/getting-started)
