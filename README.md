@@ -5,8 +5,6 @@
 
 ---
 
-
-
 ### If you want to go use their powershell script 
 
 - [Installation](https://spicetify.app/docs/getting-started)
